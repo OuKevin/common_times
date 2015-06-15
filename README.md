@@ -1,1 +1,1 @@
-# common_times 
+Determines the common meeting time using Java Threads.
